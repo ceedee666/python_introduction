@@ -22,6 +22,9 @@ All the exercises contain unittests. These test can be used by the students to c
 [nose](https://nose.readthedocs.io/en/latest/). Futhermore, all the exercises contain the annotations required by 
 [nbgrader](https://nbgrader.readthedocs.io/en/stable/).
 
+# Todos
+- After the first semester teaching whith these notebooks it became clear that some of the exercises require some rework. Currently, the explanation of the task is not always clear enough.
+- Translate the notebooks and exercises.
 # Acknowledgements 
 The work on this material has been supported by 
 
