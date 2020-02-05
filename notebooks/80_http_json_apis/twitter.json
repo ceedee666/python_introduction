@@ -1,0 +1,2192 @@
+{
+    "statuses": [
+        {
+            "created_at": "Sat Apr 06 09:06:02 +0000 2019",
+            "id": 1114454202334547968,
+            "id_str": "1114454202334547968",
+            "text": "RT @PaintballAachen: Jetzt offener Spieltag bis 18 Uhr\n\nKeine Reservierung n\u00f6tig\n\n#paintballparkaachen #paintball #aachen #gotcha #fhaachen\u2026",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "paintballparkaachen",
+                        "indices": [
+                            82,
+                            102
+                        ]
+                    },
+                    {
+                        "text": "paintball",
+                        "indices": [
+                            103,
+                            113
+                        ]
+                    },
+                    {
+                        "text": "aachen",
+                        "indices": [
+                            114,
+                            121
+                        ]
+                    },
+                    {
+                        "text": "gotcha",
+                        "indices": [
+                            122,
+                            129
+                        ]
+                    },
+                    {
+                        "text": "fhaachen",
+                        "indices": [
+                            130,
+                            139
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "PaintballAachen",
+                        "name": "Paintballpark Aachen",
+                        "id": 77989008,
+                        "id_str": "77989008",
+                        "indices": [
+                            3,
+                            19
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "de",
+                "result_type": "recent"
+            },
+            "source": "\u003ca href=\"http:\/\/twitter.com\/RWTHalert\" rel=\"nofollow\"\u003eRWTHalert\u003c\/a\u003e",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 38283543,
+                "id_str": "38283543",
+                "name": "RWTH Aachen Alert",
+                "screen_name": "RWTHalert",
+                "location": "Aachen, Germany",
+                "description": "One&only RWTHalert (re)tweets the hottest stuff from campus & news about RWTH Aachen University since 2009. I'm a brainless bot, RT \u2260 endorsement. By @korioth.",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 2840,
+                "friends_count": 0,
+                "listed_count": 222,
+                "created_at": "Wed May 06 21:39:44 +0000 2009",
+                "favourites_count": 21,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 39444,
+                "lang": "de",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "772737",
+                "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/2077849260\/rwthalert2012_logo_normal.png",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/2077849260\/rwthalert2012_logo_normal.png",
+                "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/38283543\/1347978103",
+                "profile_link_color": "772737",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "C6D6E2",
+                "profile_text_color": "525252",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Sat Apr 06 08:51:39 +0000 2019",
+                "id": 1114450584940183552,
+                "id_str": "1114450584940183552",
+                "text": "Jetzt offener Spieltag bis 18 Uhr\n\nKeine Reservierung n\u00f6tig\n\n#paintballparkaachen #paintball #aachen #gotcha\u2026 https:\/\/t.co\/c6Az3K3xC0",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "paintballparkaachen",
+                            "indices": [
+                                61,
+                                81
+                            ]
+                        },
+                        {
+                            "text": "paintball",
+                            "indices": [
+                                82,
+                                92
+                            ]
+                        },
+                        {
+                            "text": "aachen",
+                            "indices": [
+                                93,
+                                100
+                            ]
+                        },
+                        {
+                            "text": "gotcha",
+                            "indices": [
+                                101,
+                                108
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https:\/\/t.co\/c6Az3K3xC0",
+                            "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1114450584940183552",
+                            "display_url": "twitter.com\/i\/web\/status\/1\u2026",
+                            "indices": [
+                                110,
+                                133
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "de",
+                    "result_type": "recent"
+                },
+                "source": "\u003ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c\/a\u003e",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 77989008,
+                    "id_str": "77989008",
+                    "name": "Paintballpark Aachen",
+                    "screen_name": "PaintballAachen",
+                    "location": "Aachen, Germany",
+                    "description": "NRWs gr\u00f6\u00dftes Woodlandspielfeld auf \u00fcber 10.000 qm!\r\nServiceanfragen: platzwart@paintballpark.de\r\nhttp:\/\/t.co\/0CqBzECGmw",
+                    "url": "http:\/\/t.co\/Hs09blLJYN",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "http:\/\/t.co\/Hs09blLJYN",
+                                    "expanded_url": "http:\/\/www.paintballpark.de",
+                                    "display_url": "paintballpark.de",
+                                    "indices": [
+                                        0,
+                                        22
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": [
+                                {
+                                    "url": "http:\/\/t.co\/0CqBzECGmw",
+                                    "expanded_url": "http:\/\/www.paintballpark.de\/impressum",
+                                    "display_url": "paintballpark.de\/impressum",
+                                    "indices": [
+                                        97,
+                                        119
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 286,
+                    "friends_count": 5,
+                    "listed_count": 17,
+                    "created_at": "Mon Sep 28 11:27:50 +0000 2009",
+                    "favourites_count": 5,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 529,
+                    "lang": "de",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "333125",
+                    "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+                    "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/344513261572395256\/f418de80a218cb380e43f8b53c0f5212_normal.png",
+                    "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/344513261572395256\/f418de80a218cb380e43f8b53c0f5212_normal.png",
+                    "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/77989008\/1362752385",
+                    "profile_link_color": "5D6E39",
+                    "profile_sidebar_border_color": "FFFFFF",
+                    "profile_sidebar_fill_color": "F5E836",
+                    "profile_text_color": "050005",
+                    "profile_use_background_image": false,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 1,
+                "favorite_count": 0,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "de"
+            },
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "de"
+        },
+        {
+            "created_at": "Sat Apr 06 08:51:39 +0000 2019",
+            "id": 1114450584940183552,
+            "id_str": "1114450584940183552",
+            "text": "Jetzt offener Spieltag bis 18 Uhr\n\nKeine Reservierung n\u00f6tig\n\n#paintballparkaachen #paintball #aachen #gotcha\u2026 https:\/\/t.co\/c6Az3K3xC0",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "paintballparkaachen",
+                        "indices": [
+                            61,
+                            81
+                        ]
+                    },
+                    {
+                        "text": "paintball",
+                        "indices": [
+                            82,
+                            92
+                        ]
+                    },
+                    {
+                        "text": "aachen",
+                        "indices": [
+                            93,
+                            100
+                        ]
+                    },
+                    {
+                        "text": "gotcha",
+                        "indices": [
+                            101,
+                            108
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https:\/\/t.co\/c6Az3K3xC0",
+                        "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1114450584940183552",
+                        "display_url": "twitter.com\/i\/web\/status\/1\u2026",
+                        "indices": [
+                            110,
+                            133
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "de",
+                "result_type": "recent"
+            },
+            "source": "\u003ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c\/a\u003e",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 77989008,
+                "id_str": "77989008",
+                "name": "Paintballpark Aachen",
+                "screen_name": "PaintballAachen",
+                "location": "Aachen, Germany",
+                "description": "NRWs gr\u00f6\u00dftes Woodlandspielfeld auf \u00fcber 10.000 qm!\r\nServiceanfragen: platzwart@paintballpark.de\r\nhttp:\/\/t.co\/0CqBzECGmw",
+                "url": "http:\/\/t.co\/Hs09blLJYN",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http:\/\/t.co\/Hs09blLJYN",
+                                "expanded_url": "http:\/\/www.paintballpark.de",
+                                "display_url": "paintballpark.de",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "http:\/\/t.co\/0CqBzECGmw",
+                                "expanded_url": "http:\/\/www.paintballpark.de\/impressum",
+                                "display_url": "paintballpark.de\/impressum",
+                                "indices": [
+                                    97,
+                                    119
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 286,
+                "friends_count": 5,
+                "listed_count": 17,
+                "created_at": "Mon Sep 28 11:27:50 +0000 2009",
+                "favourites_count": 5,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 529,
+                "lang": "de",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "333125",
+                "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+                "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/344513261572395256\/f418de80a218cb380e43f8b53c0f5212_normal.png",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/344513261572395256\/f418de80a218cb380e43f8b53c0f5212_normal.png",
+                "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/77989008\/1362752385",
+                "profile_link_color": "5D6E39",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "F5E836",
+                "profile_text_color": "050005",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "de"
+        },
+        {
+            "created_at": "Sat Apr 06 07:12:38 +0000 2019",
+            "id": 1114425666286628864,
+            "id_str": "1114425666286628864",
+            "text": "RT @codecentric: Was hat es mit den Team-Namen \"Baupfusch\", \"Wir waren mal 7\" und \"Fantastische Bierwesen\" auf sich? Michael Treiling erkl\u00e4\u2026",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "codecentric",
+                        "name": "codecentric AG",
+                        "id": 16497594,
+                        "id_str": "16497594",
+                        "indices": [
+                            3,
+                            15
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "de",
+                "result_type": "recent"
+            },
+            "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 217550741,
+                "id_str": "217550741",
+                "name": "Christian Binzer",
+                "screen_name": "chBinzer",
+                "location": "D\u00fcsseldorf, Deutschland",
+                "description": "Software Developer @codecentric \ud83d\udc49 #Java #Spring #Angular",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 82,
+                "friends_count": 273,
+                "listed_count": 20,
+                "created_at": "Fri Nov 19 21:01:05 +0000 2010",
+                "favourites_count": 724,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 558,
+                "lang": "de",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/855130757861449728\/c9FzDp6v_normal.jpg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/855130757861449728\/c9FzDp6v_normal.jpg",
+                "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/217550741\/1461047608",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Fri Apr 05 15:45:00 +0000 2019",
+                "id": 1114192221639716865,
+                "id_str": "1114192221639716865",
+                "text": "Was hat es mit den Team-Namen \"Baupfusch\", \"Wir waren mal 7\" und \"Fantastische Bierwesen\" auf sich? Michael Treilin\u2026 https:\/\/t.co\/s9mKl4OOpK",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https:\/\/t.co\/s9mKl4OOpK",
+                            "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1114192221639716865",
+                            "display_url": "twitter.com\/i\/web\/status\/1\u2026",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "de",
+                    "result_type": "recent"
+                },
+                "source": "\u003ca href=\"http:\/\/www.hubspot.com\/\" rel=\"nofollow\"\u003eHubSpot\u003c\/a\u003e",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 16497594,
+                    "id_str": "16497594",
+                    "name": "codecentric AG",
+                    "screen_name": "codecentric",
+                    "location": "Solingen, Deutschland",
+                    "description": "Leading IT consulting company, agile software development, performance and architecture consulting. http:\/\/t.co\/Sr4kOIjg34",
+                    "url": "https:\/\/t.co\/LNxo1LA8Sr",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https:\/\/t.co\/LNxo1LA8Sr",
+                                    "expanded_url": "https:\/\/www.codecentric.de\/impressum-datenschutz",
+                                    "display_url": "codecentric.de\/impressum-date\u2026",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": [
+                                {
+                                    "url": "http:\/\/t.co\/Sr4kOIjg34",
+                                    "expanded_url": "http:\/\/blog.codecentric.de",
+                                    "display_url": "blog.codecentric.de",
+                                    "indices": [
+                                        100,
+                                        122
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 4174,
+                    "friends_count": 562,
+                    "listed_count": 317,
+                    "created_at": "Sun Sep 28 12:23:59 +0000 2008",
+                    "favourites_count": 1905,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 6392,
+                    "lang": "de",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": true,
+                    "profile_background_color": "FFFFFF",
+                    "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+                    "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/607914452424519680\/bloR8oNo_normal.jpg",
+                    "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/607914452424519680\/bloR8oNo_normal.jpg",
+                    "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/16497594\/1433854810",
+                    "profile_link_color": "2FC2EF",
+                    "profile_sidebar_border_color": "181A1E",
+                    "profile_sidebar_fill_color": "252429",
+                    "profile_text_color": "666666",
+                    "profile_use_background_image": false,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 2,
+                "favorite_count": 3,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "de"
+            },
+            "is_quote_status": false,
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "de"
+        },
+        {
+            "created_at": "Sat Apr 06 06:52:08 +0000 2019",
+            "id": 1114420507447910400,
+            "id_str": "1114420507447910400",
+            "text": "RT @codecentric: Was hat es mit den Team-Namen \"Baupfusch\", \"Wir waren mal 7\" und \"Fantastische Bierwesen\" auf sich? Michael Treiling erkl\u00e4\u2026",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "codecentric",
+                        "name": "codecentric AG",
+                        "id": 16497594,
+                        "id_str": "16497594",
+                        "indices": [
+                            3,
+                            15
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "de",
+                "result_type": "recent"
+            },
+            "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 262691464,
+                "id_str": "262691464",
+                "name": "Andre Wolff",
+                "screen_name": "nvc_wolff",
+                "location": "Velbert-Langenberg, Germany",
+                "description": "Empathic Listener, Supporter of House Stark, Librarian of unnecessary knowledge, Free Thinker",
+                "url": "https:\/\/t.co\/zOqNMFFqHJ",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https:\/\/t.co\/zOqNMFFqHJ",
+                                "expanded_url": "http:\/\/codecentric.de",
+                                "display_url": "codecentric.de",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 85,
+                "friends_count": 55,
+                "listed_count": 6,
+                "created_at": "Tue Mar 08 15:20:01 +0000 2011",
+                "favourites_count": 2747,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 5845,
+                "lang": "de",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "1A1B1F",
+                "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+                "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/841729375863209986\/UEgdz5Hm_normal.jpg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/841729375863209986\/UEgdz5Hm_normal.jpg",
+                "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/262691464\/1419116249",
+                "profile_link_color": "14661A",
+                "profile_sidebar_border_color": "181A1E",
+                "profile_sidebar_fill_color": "252429",
+                "profile_text_color": "666666",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Fri Apr 05 15:45:00 +0000 2019",
+                "id": 1114192221639716865,
+                "id_str": "1114192221639716865",
+                "text": "Was hat es mit den Team-Namen \"Baupfusch\", \"Wir waren mal 7\" und \"Fantastische Bierwesen\" auf sich? Michael Treilin\u2026 https:\/\/t.co\/s9mKl4OOpK",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https:\/\/t.co\/s9mKl4OOpK",
+                            "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1114192221639716865",
+                            "display_url": "twitter.com\/i\/web\/status\/1\u2026",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "de",
+                    "result_type": "recent"
+                },
+                "source": "\u003ca href=\"http:\/\/www.hubspot.com\/\" rel=\"nofollow\"\u003eHubSpot\u003c\/a\u003e",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 16497594,
+                    "id_str": "16497594",
+                    "name": "codecentric AG",
+                    "screen_name": "codecentric",
+                    "location": "Solingen, Deutschland",
+                    "description": "Leading IT consulting company, agile software development, performance and architecture consulting. http:\/\/t.co\/Sr4kOIjg34",
+                    "url": "https:\/\/t.co\/LNxo1LA8Sr",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https:\/\/t.co\/LNxo1LA8Sr",
+                                    "expanded_url": "https:\/\/www.codecentric.de\/impressum-datenschutz",
+                                    "display_url": "codecentric.de\/impressum-date\u2026",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": [
+                                {
+                                    "url": "http:\/\/t.co\/Sr4kOIjg34",
+                                    "expanded_url": "http:\/\/blog.codecentric.de",
+                                    "display_url": "blog.codecentric.de",
+                                    "indices": [
+                                        100,
+                                        122
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 4174,
+                    "friends_count": 562,
+                    "listed_count": 317,
+                    "created_at": "Sun Sep 28 12:23:59 +0000 2008",
+                    "favourites_count": 1905,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 6392,
+                    "lang": "de",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": true,
+                    "profile_background_color": "FFFFFF",
+                    "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+                    "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/607914452424519680\/bloR8oNo_normal.jpg",
+                    "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/607914452424519680\/bloR8oNo_normal.jpg",
+                    "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/16497594\/1433854810",
+                    "profile_link_color": "2FC2EF",
+                    "profile_sidebar_border_color": "181A1E",
+                    "profile_sidebar_fill_color": "252429",
+                    "profile_text_color": "666666",
+                    "profile_use_background_image": false,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 2,
+                "favorite_count": 3,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "de"
+            },
+            "is_quote_status": false,
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "de"
+        },
+        {
+            "created_at": "Fri Apr 05 15:45:00 +0000 2019",
+            "id": 1114192221639716865,
+            "id_str": "1114192221639716865",
+            "text": "Was hat es mit den Team-Namen \"Baupfusch\", \"Wir waren mal 7\" und \"Fantastische Bierwesen\" auf sich? Michael Treilin\u2026 https:\/\/t.co\/s9mKl4OOpK",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https:\/\/t.co\/s9mKl4OOpK",
+                        "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1114192221639716865",
+                        "display_url": "twitter.com\/i\/web\/status\/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "de",
+                "result_type": "recent"
+            },
+            "source": "\u003ca href=\"http:\/\/www.hubspot.com\/\" rel=\"nofollow\"\u003eHubSpot\u003c\/a\u003e",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 16497594,
+                "id_str": "16497594",
+                "name": "codecentric AG",
+                "screen_name": "codecentric",
+                "location": "Solingen, Deutschland",
+                "description": "Leading IT consulting company, agile software development, performance and architecture consulting. http:\/\/t.co\/Sr4kOIjg34",
+                "url": "https:\/\/t.co\/LNxo1LA8Sr",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https:\/\/t.co\/LNxo1LA8Sr",
+                                "expanded_url": "https:\/\/www.codecentric.de\/impressum-datenschutz",
+                                "display_url": "codecentric.de\/impressum-date\u2026",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "http:\/\/t.co\/Sr4kOIjg34",
+                                "expanded_url": "http:\/\/blog.codecentric.de",
+                                "display_url": "blog.codecentric.de",
+                                "indices": [
+                                    100,
+                                    122
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 4174,
+                "friends_count": 562,
+                "listed_count": 317,
+                "created_at": "Sun Sep 28 12:23:59 +0000 2008",
+                "favourites_count": 1905,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 6392,
+                "lang": "de",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": true,
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+                "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/607914452424519680\/bloR8oNo_normal.jpg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/607914452424519680\/bloR8oNo_normal.jpg",
+                "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/16497594\/1433854810",
+                "profile_link_color": "2FC2EF",
+                "profile_sidebar_border_color": "181A1E",
+                "profile_sidebar_fill_color": "252429",
+                "profile_text_color": "666666",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 2,
+            "favorite_count": 3,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "de"
+        },
+        {
+            "created_at": "Fri Apr 05 13:11:18 +0000 2019",
+            "id": 1114153539427864576,
+            "id_str": "1114153539427864576",
+            "text": "@ESA_EAC @DLR_de @SpoHo @FHAachen @ChariteBerlin hi i'm yassmine and i'm intrsted in astronomy and i want to join t\u2026 https:\/\/t.co\/qZZDJq8PlS",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "ESA_EAC",
+                        "name": "ESA Astronaut Centre",
+                        "id": 1088665734,
+                        "id_str": "1088665734",
+                        "indices": [
+                            0,
+                            8
+                        ]
+                    },
+                    {
+                        "screen_name": "DLR_de",
+                        "name": "DLR_de",
+                        "id": 16009851,
+                        "id_str": "16009851",
+                        "indices": [
+                            9,
+                            16
+                        ]
+                    },
+                    {
+                        "screen_name": "SpoHo",
+                        "name": "Ol\u00e9",
+                        "id": 57610054,
+                        "id_str": "57610054",
+                        "indices": [
+                            17,
+                            23
+                        ]
+                    },
+                    {
+                        "screen_name": "FHAachen",
+                        "name": "1337",
+                        "id": 24529946,
+                        "id_str": "24529946",
+                        "indices": [
+                            24,
+                            33
+                        ]
+                    },
+                    {
+                        "screen_name": "ChariteBerlin",
+                        "name": "Charit\u00e9 - Universit\u00e4tsmedizin Berlin",
+                        "id": 1025316884751761409,
+                        "id_str": "1025316884751761409",
+                        "indices": [
+                            34,
+                            48
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https:\/\/t.co\/qZZDJq8PlS",
+                        "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1114153539427864576",
+                        "display_url": "twitter.com\/i\/web\/status\/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+            "in_reply_to_status_id": 1044195666568900613,
+            "in_reply_to_status_id_str": "1044195666568900613",
+            "in_reply_to_user_id": 1088665734,
+            "in_reply_to_user_id_str": "1088665734",
+            "in_reply_to_screen_name": "ESA_EAC",
+            "user": {
+                "id": 1114150439380049920,
+                "id_str": "1114150439380049920",
+                "name": "yassmine Tafouit",
+                "screen_name": "YTafouit",
+                "location": "",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 0,
+                "friends_count": 6,
+                "listed_count": 0,
+                "created_at": "Fri Apr 05 12:58:59 +0000 2019",
+                "favourites_count": 0,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 2,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_normal.png",
+                "profile_image_url_https": "https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_normal.png",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": true,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Apr 05 09:21:16 +0000 2019",
+            "id": 1114095649514037248,
+            "id_str": "1114095649514037248",
+            "text": "This is me being eye tracked while debugging some \u2066@PythonSV\u2069 code. \ud83d\udc41 \n\n#eyetracking #youseeproject #sqslproject\u2026 https:\/\/t.co\/rtr9zqRZrd",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "eyetracking",
+                        "indices": [
+                            72,
+                            84
+                        ]
+                    },
+                    {
+                        "text": "youseeproject",
+                        "indices": [
+                            85,
+                            99
+                        ]
+                    },
+                    {
+                        "text": "sqslproject",
+                        "indices": [
+                            100,
+                            112
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "PythonSV",
+                        "name": "Python SV e.V.",
+                        "id": 386982931,
+                        "id_str": "386982931",
+                        "indices": [
+                            51,
+                            60
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https:\/\/t.co\/rtr9zqRZrd",
+                        "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1114095649514037248",
+                        "display_url": "twitter.com\/i\/web\/status\/1\u2026",
+                        "indices": [
+                            114,
+                            137
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 10836762,
+                "id_str": "10836762",
+                "name": "Christian Drumm \ud83c\uddea\ud83c\uddfa",
+                "screen_name": "ceedee666",
+                "location": "Aachen",
+                "description": "Professor of Information Systems @ https:\/\/t.co\/Ia3kg5SSov | @SAPMentors | #ABAPCodeRetreat | programming languages, software architecture and new technologies | climber",
+                "url": "https:\/\/t.co\/XLN42FnMQK",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https:\/\/t.co\/XLN42FnMQK",
+                                "expanded_url": "https:\/\/www.fh-aachen.de\/menschen\/drumm\/",
+                                "display_url": "fh-aachen.de\/menschen\/drumm\/",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https:\/\/t.co\/Ia3kg5SSov",
+                                "expanded_url": "http:\/\/fh-aachen.de",
+                                "display_url": "fh-aachen.de",
+                                "indices": [
+                                    35,
+                                    58
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 1450,
+                "friends_count": 1046,
+                "listed_count": 145,
+                "created_at": "Tue Dec 04 12:56:32 +0000 2007",
+                "favourites_count": 5570,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 7856,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "1A1B1F",
+                "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+                "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/898150556157345793\/IuejYcn8_normal.jpg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/898150556157345793\/IuejYcn8_normal.jpg",
+                "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/10836762\/1445004646",
+                "profile_link_color": "2FC2EF",
+                "profile_sidebar_border_color": "181A1E",
+                "profile_sidebar_fill_color": "252429",
+                "profile_text_color": "666666",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": {
+                "id": "8b5c39218ec8bdee",
+                "url": "https:\/\/api.twitter.com\/1.1\/geo\/id\/8b5c39218ec8bdee.json",
+                "place_type": "city",
+                "name": "Aachen",
+                "full_name": "Aachen, Germany",
+                "country_code": "DE",
+                "country": "Germany",
+                "contained_within": [],
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                5.9748467,
+                                50.6621438
+                            ],
+                            [
+                                6.218106,
+                                50.6621438
+                            ],
+                            [
+                                6.218106,
+                                50.8572297
+                            ],
+                            [
+                                5.9748467,
+                                50.8572297
+                            ]
+                        ]
+                    ]
+                },
+                "attributes": {}
+            },
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 3,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Apr 04 14:15:06 +0000 2019",
+            "id": 1113807206888165377,
+            "id_str": "1113807206888165377",
+            "text": "Du kannst dich noch bis zum 21.04.2019 auf der Webseite https:\/\/t.co\/yhgRj9cq4f aufstellen lassen.\n\nDie Hochschulwa\u2026 https:\/\/t.co\/KOumDd1wxo",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https:\/\/t.co\/yhgRj9cq4f",
+                        "expanded_url": "https:\/\/www.wahlen.fh-aachen.org\/de\/",
+                        "display_url": "wahlen.fh-aachen.org\/de\/",
+                        "indices": [
+                            56,
+                            79
+                        ]
+                    },
+                    {
+                        "url": "https:\/\/t.co\/KOumDd1wxo",
+                        "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1113807206888165377",
+                        "display_url": "twitter.com\/i\/web\/status\/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "de",
+                "result_type": "recent"
+            },
+            "source": "\u003ca href=\"http:\/\/www.facebook.com\/twitter\" rel=\"nofollow\"\u003eFacebook\u003c\/a\u003e",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 121919533,
+                "id_str": "121919533",
+                "name": "Fachschaftsrat FB07",
+                "screen_name": "WiWi_FHAachen",
+                "location": "FH Aachen, Eupener Str. 70",
+                "description": "",
+                "url": "http:\/\/t.co\/lDEcMl69KO",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http:\/\/t.co\/lDEcMl69KO",
+                                "expanded_url": "http:\/\/www.wirtschaft.fh-aachen.org",
+                                "display_url": "wirtschaft.fh-aachen.org",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 87,
+                "friends_count": 9,
+                "listed_count": 3,
+                "created_at": "Thu Mar 11 01:26:51 +0000 2010",
+                "favourites_count": 0,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 290,
+                "lang": "de",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1373929597\/final6_normal.jpg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1373929597\/final6_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "de"
+        },
+        {
+            "created_at": "Thu Apr 04 13:53:19 +0000 2019",
+            "id": 1113801727122259968,
+            "id_str": "1113801727122259968",
+            "text": "Personal Organisation in der #FHAachen ist gleich und ich sitze hier obwohl ich drau\u00dfen sein k\u00f6nnte.\nfh aachen",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "FHAachen",
+                        "indices": [
+                            29,
+                            38
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "de",
+                "result_type": "recent"
+            },
+            "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 895690637449867265,
+                "id_str": "895690637449867265",
+                "name": "Fabian Lechner",
+                "screen_name": "Fabianslife",
+                "location": "",
+                "description": "Student der FH-Aachen.",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 0,
+                "friends_count": 0,
+                "listed_count": 0,
+                "created_at": "Thu Aug 10 16:57:43 +0000 2017",
+                "favourites_count": 0,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 3,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1082559921118461952\/eQN7mXJ4_normal.jpg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1082559921118461952\/eQN7mXJ4_normal.jpg",
+                "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/895690637449867265\/1546937415",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "de"
+        },
+        {
+            "created_at": "Thu Apr 04 12:50:08 +0000 2019",
+            "id": 1113785824175427584,
+            "id_str": "1113785824175427584",
+            "text": "Berateralltag bei @bearingpoint in einer entspannten Atmosph\u00e4re kennenlernen und noch gleich einen Job sichern  \ud83c\udf89 e\u2026 https:\/\/t.co\/BsfUbhKlVN",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "bearingpoint",
+                        "name": "BearingPoint",
+                        "id": 14806217,
+                        "id_str": "14806217",
+                        "indices": [
+                            18,
+                            31
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https:\/\/t.co\/BsfUbhKlVN",
+                        "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1113785824175427584",
+                        "display_url": "twitter.com\/i\/web\/status\/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "de",
+                "result_type": "recent"
+            },
+            "source": "\u003ca href=\"https:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite Inc.\u003c\/a\u003e",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 978921276550139904,
+                "id_str": "978921276550139904",
+                "name": "WS4S",
+                "screen_name": "WS4S_aktuell",
+                "location": "K\u00f6ln, Stuttgart",
+                "description": "Workshops. Weiterbildung. Karriere. Kostenlose Events f\u00fcr Studenten in der Wirtschaft & IT.",
+                "url": "https:\/\/t.co\/BEZBP1Rm6S",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https:\/\/t.co\/BEZBP1Rm6S",
+                                "expanded_url": "http:\/\/www.ws4s.de",
+                                "display_url": "ws4s.de",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 6,
+                "friends_count": 161,
+                "listed_count": 0,
+                "created_at": "Wed Mar 28 09:06:34 +0000 2018",
+                "favourites_count": 7,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 24,
+                "lang": "de",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/978923244169424896\/542igfTJ_normal.jpg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/978923244169424896\/542igfTJ_normal.jpg",
+                "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/978921276550139904\/1542321069",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 2,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "de"
+        },
+        {
+            "created_at": "Thu Apr 04 06:22:40 +0000 2019",
+            "id": 1113688316522717185,
+            "id_str": "1113688316522717185",
+            "text": "Today we have our project meeting for integrating #ai algorithms into the @oee_cloud software. \n\n#fhaachen",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "ai",
+                        "indices": [
+                            50,
+                            53
+                        ]
+                    },
+                    {
+                        "text": "fhaachen",
+                        "indices": [
+                            97,
+                            106
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "oee_cloud",
+                        "name": "oee.cloud",
+                        "id": 990956167978536960,
+                        "id_str": "990956167978536960",
+                        "indices": [
+                            74,
+                            84
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "\u003ca href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c\/a\u003e",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 10836762,
+                "id_str": "10836762",
+                "name": "Christian Drumm \ud83c\uddea\ud83c\uddfa",
+                "screen_name": "ceedee666",
+                "location": "Aachen",
+                "description": "Professor of Information Systems @ https:\/\/t.co\/Ia3kg5SSov | @SAPMentors | #ABAPCodeRetreat | programming languages, software architecture and new technologies | climber",
+                "url": "https:\/\/t.co\/XLN42FnMQK",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https:\/\/t.co\/XLN42FnMQK",
+                                "expanded_url": "https:\/\/www.fh-aachen.de\/menschen\/drumm\/",
+                                "display_url": "fh-aachen.de\/menschen\/drumm\/",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https:\/\/t.co\/Ia3kg5SSov",
+                                "expanded_url": "http:\/\/fh-aachen.de",
+                                "display_url": "fh-aachen.de",
+                                "indices": [
+                                    35,
+                                    58
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 1450,
+                "friends_count": 1046,
+                "listed_count": 145,
+                "created_at": "Tue Dec 04 12:56:32 +0000 2007",
+                "favourites_count": 5570,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 7856,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "1A1B1F",
+                "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+                "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/898150556157345793\/IuejYcn8_normal.jpg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/898150556157345793\/IuejYcn8_normal.jpg",
+                "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/10836762\/1445004646",
+                "profile_link_color": "2FC2EF",
+                "profile_sidebar_border_color": "181A1E",
+                "profile_sidebar_fill_color": "252429",
+                "profile_text_color": "666666",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": {
+                "id": "8b5c39218ec8bdee",
+                "url": "https:\/\/api.twitter.com\/1.1\/geo\/id\/8b5c39218ec8bdee.json",
+                "place_type": "city",
+                "name": "Aachen",
+                "full_name": "Aachen, Germany",
+                "country_code": "DE",
+                "country": "Germany",
+                "contained_within": [],
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                5.9748467,
+                                50.6621438
+                            ],
+                            [
+                                6.218106,
+                                50.6621438
+                            ],
+                            [
+                                6.218106,
+                                50.8572297
+                            ],
+                            [
+                                5.9748467,
+                                50.8572297
+                            ]
+                        ]
+                    ]
+                },
+                "attributes": {}
+            },
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Wed Apr 03 12:17:50 +0000 2019",
+            "id": 1113415308998524928,
+            "id_str": "1113415308998524928",
+            "text": "Bei Fragen rund ums Thema Studium k\u00f6nnt ihr ab jetzt ganz einfach eine E-Mail an \u27a1\ufe0f studi.hilfe.fsr.fb7@gmail.com\u2026 https:\/\/t.co\/cgipt51MVF",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https:\/\/t.co\/cgipt51MVF",
+                        "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1113415308998524928",
+                        "display_url": "twitter.com\/i\/web\/status\/1\u2026",
+                        "indices": [
+                            115,
+                            138
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "de",
+                "result_type": "recent"
+            },
+            "source": "\u003ca href=\"http:\/\/www.facebook.com\/twitter\" rel=\"nofollow\"\u003eFacebook\u003c\/a\u003e",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 121919533,
+                "id_str": "121919533",
+                "name": "Fachschaftsrat FB07",
+                "screen_name": "WiWi_FHAachen",
+                "location": "FH Aachen, Eupener Str. 70",
+                "description": "",
+                "url": "http:\/\/t.co\/lDEcMl69KO",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http:\/\/t.co\/lDEcMl69KO",
+                                "expanded_url": "http:\/\/www.wirtschaft.fh-aachen.org",
+                                "display_url": "wirtschaft.fh-aachen.org",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 87,
+                "friends_count": 9,
+                "listed_count": 3,
+                "created_at": "Thu Mar 11 01:26:51 +0000 2010",
+                "favourites_count": 0,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 290,
+                "lang": "de",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1373929597\/final6_normal.jpg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1373929597\/final6_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "de"
+        },
+        {
+            "created_at": "Wed Apr 03 12:12:51 +0000 2019",
+            "id": 1113414053894991872,
+            "id_str": "1113414053894991872",
+            "text": "Bei Fragen rund ums Thema Studium k\u00f6nnt ihr ab jetzt ganz einfach eine Email an \u27a1\ufe0f \n   studi.hilfe.fsr.fb7@gmail.co\u2026 https:\/\/t.co\/SIXjhTnvj5",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https:\/\/t.co\/SIXjhTnvj5",
+                        "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1113414053894991872",
+                        "display_url": "twitter.com\/i\/web\/status\/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "de",
+                "result_type": "recent"
+            },
+            "source": "\u003ca href=\"http:\/\/www.facebook.com\/twitter\" rel=\"nofollow\"\u003eFacebook\u003c\/a\u003e",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 121919533,
+                "id_str": "121919533",
+                "name": "Fachschaftsrat FB07",
+                "screen_name": "WiWi_FHAachen",
+                "location": "FH Aachen, Eupener Str. 70",
+                "description": "",
+                "url": "http:\/\/t.co\/lDEcMl69KO",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http:\/\/t.co\/lDEcMl69KO",
+                                "expanded_url": "http:\/\/www.wirtschaft.fh-aachen.org",
+                                "display_url": "wirtschaft.fh-aachen.org",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 87,
+                "friends_count": 9,
+                "listed_count": 3,
+                "created_at": "Thu Mar 11 01:26:51 +0000 2010",
+                "favourites_count": 0,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 290,
+                "lang": "de",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1373929597\/final6_normal.jpg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1373929597\/final6_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "de"
+        },
+        {
+            "created_at": "Sat Mar 30 09:56:04 +0000 2019",
+            "id": 1111930080287170562,
+            "id_str": "1111930080287170562",
+            "text": "Bald ist es wieder so weit - die j\u00e4hrlichen Hochschulwahlen stehen an! Vom 13. bis 17. Mai kann jeder von euch sein\u2026 https:\/\/t.co\/gNvxgBad5T",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https:\/\/t.co\/gNvxgBad5T",
+                        "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1111930080287170562",
+                        "display_url": "twitter.com\/i\/web\/status\/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "de",
+                "result_type": "recent"
+            },
+            "source": "\u003ca href=\"http:\/\/www.facebook.com\/twitter\" rel=\"nofollow\"\u003eFacebook\u003c\/a\u003e",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 77851067,
+                "id_str": "77851067",
+                "name": "FSR5 FH-Aachen",
+                "screen_name": "fsr5_fhaachen",
+                "location": "Aachen",
+                "description": "offizieller Twitter-Account des Fachschaftsrats Elektro- und Informationstechnik, FH Aachen",
+                "url": "https:\/\/t.co\/ko9xwAeEyP",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https:\/\/t.co\/ko9xwAeEyP",
+                                "expanded_url": "https:\/\/www.fh-aachen.de\/fachbereiche\/elektrotechnik-und-informationstechnik\/fachschaftsrat\/",
+                                "display_url": "fh-aachen.de\/fachbereiche\/e\u2026",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 294,
+                "friends_count": 27,
+                "listed_count": 26,
+                "created_at": "Sun Sep 27 22:28:56 +0000 2009",
+                "favourites_count": 0,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 578,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+                "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1085908481469759489\/SK7ztty5_normal.jpg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1085908481469759489\/SK7ztty5_normal.jpg",
+                "profile_link_color": "18AFA6",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "de"
+        },
+        {
+            "created_at": "Sat Mar 30 09:51:20 +0000 2019",
+            "id": 1111928888949727232,
+            "id_str": "1111928888949727232",
+            "text": "Bald ist es wieder so weit - die j\u00e4hrlichen Hochschulwahlen stehen an! Vom 13. bis 17. Mai kann jeder von euch sein\u2026 https:\/\/t.co\/WOV5jixHAw",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https:\/\/t.co\/WOV5jixHAw",
+                        "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1111928888949727232",
+                        "display_url": "twitter.com\/i\/web\/status\/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "de",
+                "result_type": "recent"
+            },
+            "source": "\u003ca href=\"http:\/\/www.facebook.com\/twitter\" rel=\"nofollow\"\u003eFacebook\u003c\/a\u003e",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 77851067,
+                "id_str": "77851067",
+                "name": "FSR5 FH-Aachen",
+                "screen_name": "fsr5_fhaachen",
+                "location": "Aachen",
+                "description": "offizieller Twitter-Account des Fachschaftsrats Elektro- und Informationstechnik, FH Aachen",
+                "url": "https:\/\/t.co\/ko9xwAeEyP",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https:\/\/t.co\/ko9xwAeEyP",
+                                "expanded_url": "https:\/\/www.fh-aachen.de\/fachbereiche\/elektrotechnik-und-informationstechnik\/fachschaftsrat\/",
+                                "display_url": "fh-aachen.de\/fachbereiche\/e\u2026",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 294,
+                "friends_count": 27,
+                "listed_count": 26,
+                "created_at": "Sun Sep 27 22:28:56 +0000 2009",
+                "favourites_count": 0,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 578,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+                "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1085908481469759489\/SK7ztty5_normal.jpg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1085908481469759489\/SK7ztty5_normal.jpg",
+                "profile_link_color": "18AFA6",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "de"
+        }
+    ],
+    "search_metadata": {
+        "completed_in": 0.036,
+        "max_id": 1114454202334547968,
+        "max_id_str": "1114454202334547968",
+        "next_results": "?max_id=1111928888949727231&q=fhaachen&include_entities=1",
+        "query": "fhaachen",
+        "refresh_url": "?since_id=1114454202334547968&q=fhaachen&include_entities=1",
+        "count": 15,
+        "since_id": 0,
+        "since_id_str": "0"
+    }
+}
