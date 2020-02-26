@@ -2,8 +2,8 @@
     beginner-friendly error messages for exceptions."""
 
 def msg(e):
-    """ This function returs some explanations to typically
-        excetions encounted by beginners. In particular some
+    """ This function returns some explanations to typically
+        exceptions encountered by beginners. In particular some
         hints on how to remove the root cause is given"""
 
     if type(e).__name__ == "NameError":
