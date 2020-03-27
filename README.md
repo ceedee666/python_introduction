@@ -3,7 +3,7 @@ This repository contains a number of [Jupyter](https://jupyter.org/) notebooks. 
 provide an introduction to programming in Python.
 
 The focus of the matrial are students with 
-little or none previous programmin experience, especially in non-technical courses of study. 
+little or none previous programming experience, especially in non-technical courses of study. 
 To support these students in learning the complex skill of programming, the
 [Four Components Instructional Design (4C/ID)](http://www.tensteps.info/) method was used to create the material.
 
