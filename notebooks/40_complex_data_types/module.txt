@@ -1,0 +1,15 @@
+71101;Grundlagen der BWL; Mackenstein;1
+71007;Personal und Organisation;Fritz;1
+71102;Wirtschaftsmathematik 1 und Statistik 1;Weigand;1
+71105;Wirtschaftsprivatrecht 1;Timme;1
+72104;Unternehmenssteuern;Knueppel;1
+72102;Wirtschaftsmathematik 2;Maercker;2
+72101;Wirtschaftsprivatrecht 2;Lind;2
+73102;Informationstechnik;Jacobs;3
+74101;Makroökonomie;Mueller-Oestreich;4
+73101;Mikroökonomie;Janz;3
+72103;Statistik 2;Weigand;3
+73105;Finanzwirtschaft;Stephan;4
+72106;Kostenrechnung;Stippel;2
+73103;Marketing;Hoepner;4
+73104;Rechnungslegung 2;Schneider;3
