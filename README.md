@@ -14,7 +14,7 @@ exercises folder, there is always an index file linking to all the available exe
 topic [conditionals](/notebooks/30_conditionals). The folder contains the following files:
 
 - [conditionals.ipynb](/notebooks/30_conditionals/conditionals.ipynb): The introduction to the topic (i.e. the lecture)
-- [conditionals_howto.ipynb](/notebooks/30_conditionals/conditionals_howto.ipynb): the howto 
+- [conditionals_howto.ipynb](/notebooks/30_conditionals/conditionals_howto_eng.ipynb): the howto 
 - [exercises](/notebooks/30_conditionals/exercises): a folder containing all the exercises for the topic
     - [00_conditional_exercises.ipynd](/notebooks/30_conditionals/exercises/00_conditional_exercises.ipynd): the index file for the exercises. 
 
