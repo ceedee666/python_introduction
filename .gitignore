@@ -220,3 +220,7 @@ fabric.properties
 .idea/**/markdown-navigator/
 
 # End of https://www.gitignore.io/api/pycharm
+
+# m_albezem 20.07.2020
+# remove .idea directory completely
+.idea
