@@ -1,0 +1,13 @@
+# Diese Konfigurationsdatei importiert alle gebrauchten Modulen,
+# die nicht in der Standardbibliothek enthalten sind.
+
+# Falls die Version des entsp. Moduls nicht angegeben ist,
+# sucht "repo2docker" nach der neusten Version. Jedoch führt dies oft
+# zu Problemen bei der Erstellung der Binder-Umgebung, deswegen ist es
+# besser, wenn die Version eingegeben wird.
+
+matplotlib==3.3.2
+pandas==1.1.2
+numpy==1.19.2
+nose==1.3.7
+requests_oauthlib==1.3.0
