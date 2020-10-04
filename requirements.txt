@@ -3,7 +3,9 @@
 
 # Falls die Version des entsp. Moduls nicht angegeben ist,
 # sucht "repo2docker" nach der neusten Version. Jedoch führt dies oft
-# zu Problemen bei der Erstellung der Binder-Umgebung.
+# zu Problemen bei der Erstellung der Binder-Umgebung, deswegen ist es
+# besser, wenn die Version eingegeben wird.
+
 
 matplotlib==3.3.2
 pandas==1.1.2
