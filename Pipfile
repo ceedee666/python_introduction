@@ -9,7 +9,5 @@ nose = "*"
 requests-oauthlib = "*"
 pre-commit = "*"
 
-[dev-packages]
-
 [requires]
 python_version = "3.9"
